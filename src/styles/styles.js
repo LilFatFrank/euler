@@ -7,7 +7,7 @@ export const useStyles = makeStyles({
     height: "100%",
   },
   background: {
-    borderRight: "none",
+    borderRight: "none !important",
     padding: "0px 0px 30px",
   },
   appBar: {
