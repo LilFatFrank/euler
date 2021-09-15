@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8988c064.chunk.css",
+    "main.js": "/static/js/main.05162d18.chunk.js",
+    "main.js.map": "/static/js/main.05162d18.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.4eeb1a19.js",
+    "runtime-main.js.map": "/static/js/runtime-main.4eeb1a19.js.map",
+    "static/js/2.771e6cb4.chunk.js": "/static/js/2.771e6cb4.chunk.js",
+    "static/js/2.771e6cb4.chunk.js.map": "/static/js/2.771e6cb4.chunk.js.map",
+    "static/js/3.27393222.chunk.js": "/static/js/3.27393222.chunk.js",
+    "static/js/3.27393222.chunk.js.map": "/static/js/3.27393222.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.8988c064.chunk.css.map": "/static/css/main.8988c064.chunk.css.map",
+    "static/js/2.771e6cb4.chunk.js.LICENSE.txt": "/static/js/2.771e6cb4.chunk.js.LICENSE.txt",
+    "static/media/index.scss": "/static/media/Louis George Cafe.17cd25f8.ttf",
+    "static/media/icon-sprite.0d190711.svg": "/static/media/icon-sprite.0d190711.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4eeb1a19.js",
+    "static/js/2.771e6cb4.chunk.js",
+    "static/css/main.8988c064.chunk.css",
+    "static/js/main.05162d18.chunk.js"
+  ]
+}
