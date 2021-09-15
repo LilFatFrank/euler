@@ -9,8 +9,8 @@ export const useStyles = makeStyles((theme) => ({
   appBar: {
     width: `calc(100% - ${DRAWER_WIDTH}px)`,
     marginLeft: `${DRAWER_WIDTH}px`,
-    background: "#fff",
-    boxShadow: "none",
+    background: "#fff !important",
+    boxShadow: "none !important",
   },
   list: {
     width: `${DRAWER_WIDTH}px`,
