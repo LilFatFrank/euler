@@ -1,0 +1,18 @@
+.card {
+  width: 280px;
+  .padded {
+    padding: 10px 10px;
+  }
+  .media {
+    height: 150px;
+  }
+  .description {
+    width: 100%;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    max-height: 200px;
+    display: -webkit-box;
+    -webkit-line-clamp: 5;
+    -webkit-box-orient: vertical;
+  }
+}

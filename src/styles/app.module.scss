@@ -1,3 +1,5 @@
+@import "./variables.module.scss";
+
 .app {
   height: 100%;
 }
@@ -13,6 +15,9 @@
   &JustifyCenter {
     justify-content: center;
   }
+  &JustifyEnd {
+    justify-content: end;
+  }
   &JustifySpaceAround {
     justify-content: space-around;
   }
@@ -22,10 +27,29 @@
   &DirectionColumn {
     flex-direction: column;
   }
+  &Wrap {
+    flex-wrap: wrap;
+  }
   &Gap10 {
     gap: 10px;
   }
   &Gap20 {
     gap: 20px;
   }
+  &Gap30 {
+    gap: 30px;
+  }
+}
+
+.contentSection {
+  padding: 40px 40px 30px;
+}
+
+.padding10 {
+  padding: 10px;
+}
+
+a {
+  text-decoration: none;
+  cursor: pointer;
 }
